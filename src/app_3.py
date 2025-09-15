@@ -2,9 +2,6 @@
     Demonstrating extracting tables from pdf files
     and converting them into pandas dataframes so they can be used in data science processes
     Uses `tabula-py`
-
-    However, issues with jpype were encountered --- requiring a JAVA_HOME environment variable, the process
-    for some path, the process for which the tutorial didn't talk about, it doesnm't work, giving a certain kind of error.
 """
 
 import tabula

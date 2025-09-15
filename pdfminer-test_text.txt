@@ -1,0 +1,1357 @@
+Course Information Document: Undergraduate
+
+For students starting in Academic Year 2022/23
+
+1. Course Summary
+
+Names of programme and award title(s)
+
+BSc (Hons) Computer Science
+BSc (Hons) Computer Science with International Year
+(see Annex for details)
+BSc (Hons) Computer Science with Work Placement
+Year (see Annex for details)
+
+Award type
+
+Mode of study
+
+Framework of Higher Education
+Qualification (FHEQ) level of final award
+
+Combined Honours
+
+Full-time
+
+Level 6
+
+Normal length of the programme
+
+3 years; 4 years with either the International Year or
+Placement Year between years 2 and 3
+
+Maximum period of registration
+
+The normal length as specified above plus 3 years
+
+Location of study
+
+Accreditation (if applicable)
+
+Keele Campus
+
+Not applicable
+
+Regulator
+
+Office for Students (OfS)
+
+Tuition Fees
+
+UK students:
+
+Fee for 2022/23 is £9,250*
+
+International students:
+
+Fee for 2022/23 is £17,900**
+
+The fee for the international year abroad is calculated
+at 15% of the standard year fee 
+
+The fee for the work placement year is calculated at
+20% of the standard year fee
+
+How this information might change: Please read the important information at
+http://www.keele.ac.uk/student-agreement/. This explains how and why we may need to make
+changes to the information provided in this document and to help you understand how we will
+communicate with you if this happens.
+
+* These fees are regulated by Government. We reserve the right to increase fees in subsequent years of
+study in response to changes in government policy and/or changes to the law. If permitted by such change in
+policy or law, we may increase your fees by an inflationary amount or such other measure as required by
+government policy or the law. Please refer to the accompanying Student Terms & Conditions. Further
+information on fees can be found 
+at http://www.keele.ac.uk/studentfunding/tuitionfees/  
+
+** We reserve the right to increase fees in subsequent years of study by an inflationary amount. Please refer
+to the accompanying Student Terms & Conditions for full details. Further information on fees can be found
+at http://www.keele.ac.uk/studentfunding/tuitionfees/
+
+1
+
+2. What is a Combined Honours programme?
+
+Combined Honours degrees are degrees that are taken in two different subjects, resulting in an X and Y
+degree title. If you are taking a Combined Honours programme, these will be the two subjects you applied
+for. These are referred to as your Principal Subjects.
+
+In a Combined Honours degree you must take at least 135 credits in each Principal Subject (270 credits in
+total), accrued over all three levels of study, with at least 45 credits at each level of study (Levels 4, 5 and 6)
+in each of two Principal Subjects (90 credits per year). The remaining available credits can be filled with
+modules from these subjects or other subjects entirely.
+
+As a Combined Honours student you can choose to study just one subject in your final year of study, taking a
+minimum of 90 credits in this subject. This will result in an X with Y degree title.
+
+3. Overview of the Programme
+
+Combined Honours Computer Science is a programme for students with an interest in the application of
+computing to a wide range of problems. Computer systems are now vital to business, government, science
+and society, and there is much demand for graduates with the professional understanding and practical skills
+to harness software and hardware technologies to solve real-world problems and develop the systems of the
+future. Many of the recent advances in these areas can be attributed to developments in computing, and this
+trend is likely to increase in speed and impact.
+
+The programme explores the theoretical underpinnings of the discipline and places an emphasis on practical
+computer programming and software development. Combined and Single Honours Computing programmes
+have a common first semester and common entrance requirements. This retains flexibility of choice during
+the first semester of the first year. There are no specific subject requirements for entry to our computing
+programmes, and no previous experience of computing or computer programming is assumed. The
+programmes do not involve an advanced level of mathematics, and any mathematical knowledge needed
+beyond that taught at GCSE is taught as part of the modules included in the programmes.
+
+4. Aims of the programme
+
+The broad aims of the programme are to:
+
+develop the intellectual, practical and additional transferable skills of the student such that they gain a
+sound academic grounding in the discipline of Computer Science and an understanding of the
+professional issues relevant to their future working lives.
+include areas of teaching at the leading edge of the discipline, as informed by subject research,
+discipline and industry trends and market requirements.
+prepare you for further study or research, and for employment in industry, commerce or public service.
+
+The range of opportunities for graduates with computing skills continues to expand. Many of our graduates
+move into employment that is directly computing-related, for example as systems analysts, software
+engineers and consultants, working in the same context as Single Honours Computer Science graduates
+from elsewhere. In some cases, the breadth of a Single Honours Computer Science degree is an advantage;
+in others the sector of employment is also related to another Combined Honours degree subject, which
+enables our students to offer a unique blend of skills to potential employers. A number of graduates go on to
+study for higher degrees in a wide range of subject areas, at Keele and elsewhere.
+
+5. What you will learn
+
+The intended learning outcomes of the programme (what students should know, understand and be able to
+do at the end of the programme), can be described under the following headings:
+
+Subject knowledge and understanding
+Subject specific skills
+Key or transferable skills (including employability skills)
+
+Subject knowledge and understanding
+
+Successful students will be able to:
+
+LO1.1     Computational thinking including its relevance to everyday life.
+
+LO1.2     The scientific method and its applications to problem solving in this area.
+
+LO1.3     Essential facts, concepts, principles and theories relating to Computing and computer applications
+
+2
+
+as appropriate to the programme of study.
+
+LO1.4     Modelling: use such knowledge and understanding in the modelling and design of computer-based
+systems for the purposes of comprehension, communication, prediction and the understanding of trade-offs.
+
+LO1.5     Requirements, practical constraints and computer-based systems (and this includes computer
+systems, information security, embedded, and distributed systems) in their context: recognise and analyse
+criteria and specifications appropriate to specific problems, and plan strategies for their solutions.
+
+LO1.6     Critical evaluation and testing: analyse the extent to which a computer-0based system meets the
+criteria defined for its current use and future development.
+
+LO1.7     Methods and tool: deploy appropriate theory, practices and tools for the specification, design,
+implementation and evaluation of computer-based systems.
+
+LO1.8     Professional considerations: recognise the professional, economic, social, environmental, moral and
+ethical issues involved in the sustainable exploitation of computer technology and be guided by the adoption
+of appropriate professional, ethical and legal practices.
+
+Subject specific skills
+
+Successful students will have the ability to:
+
+LO2.1     Specify, design and construct reliable, secure and usable computer-based systems.
+
+LO2.2     Evaluate systems in terms of quality attributes and possible trade-offs presented within the given
+problem.
+
+LO2.3     Plan and manage projects to deliver computing systems within constraints of requirements,
+timescale and budget.
+
+LO2.4     Recognise any risks and safety aspects that may be involved in the deployment of computing
+systems within a given context.
+
+LO2.5     Deploy effectively the tools used for the construction and documentation of computer applications,
+with particular emphasis on understanding the whole process involved in the effective deployment of
+computers to solve practical problems.
+
+LO2.6     Critically evaluate and analyse complex problems, including those with incomplete information, and
+devise appropriate solutions, within the constraints of a budget.
+
+Key or transferable skills (including employability skills)
+
+Successful students will have the opportunity to develop:
+
+LO3.1     A wide range of generic skills to ensure they become effective in the workplace, to the benefit of
+themselves, their employer and the wider economy.
+
+LO3.2     Intellectual skills: critical thing; making a case; numeracy and literacy; information literacy. The
+ability to construct well-argued and grammatically correct documents. The ability to locate and retrieve
+relevant ideas, and ensure these are correctly and accurately referenced and attributed.
+
+LO3.3     Self-management: self-awareness and reflection; goal setting and action planning; independence
+and adaptability; acting on initiative; innovation and creativity. The ability to work unsupervised, plan
+effectively and meet deadlines, and respond readily to changing situations and priorities.
+
+LO3.4     Interaction: reflection and communication; the ability to succinctly present rational and reasoned
+arguments that address a given problem or opportunity, to a range of audiences (orally, electronically or in
+writing).
+
+LO3.5     Team working and management: the ability to recognise and make best use of the skills and
+knowledge of individuals to collaborate. To be able to identify problems and desired outcomes and negotiate
+to mutually acceptable conclusions.  To understand the role of a leader in setting direction and taking
+responsibility for actions and decisions.
+
+LO3.6     Contextual awareness: the ability to understand and meet the needs of individuals, business and
+the community, and to understand how workplaces and organisations are governed.
+
+LO3.7     Sustainability: recognising factors in environmental and societal contexts relating to the
+
+3
+
+opportunities and challenges created by computing systems across a range of human activities.
+
+Keele Graduate attributes
+
+Engagement with this programme will enable you to develop your intellectual, personal and professional
+capabilities. At Keele, we call these our ten Graduate Attributes and they include independent thinking,
+synthesizing information, creative problem solving, communicating clearly, and appreciating the social,
+environmental and global implications of your studies and activities. Our educational programme and
+learning environment is designed to help you to become a well-rounded graduate who is capable of making a
+positive and valued contribution in a complex and rapidly changing world, whichever spheres of life you
+engage in after your studies are completed.
+
+Further information about the Keele Graduate Attributes can be found here: http://www.keele.ac.uk/journey/
+
+6. How is the programme taught?
+
+Learning and teaching methods used on the programme vary according to the subject matter and level of
+the module. They include the following:
+
+Traditional lectures providing students with detailed notes, often supported by copies of lecture
+slides in print or electronic form
+Practical sessions in computer laboratories often supported by copies of laboratory instruction sheets
+Web-based learning using the University's virtual learning environment (KLE)
+Tutorials and directed reading on specific topics under the supervision of a member of academic staff
+Group project sessions in which students develop a design for a software item to a level sufficient to
+allow implementation to follow
+
+Apart from these formal activities, students are also provided with regular opportunities to talk through
+particular areas of difficulty, and any special learning needs they may have, with their Personal Tutors or
+module lecturers on a one-to-one basis.
+
+These learning and teaching methods enable students to achieve the learning outcomes of the programme
+in a variety of ways. For example:
+
+lectures allow students to gain a systematic knowledge and understanding of computer science
+concepts and ideas and how to apply them to development of software and information systems;
+web-based learning and directed reading allow students to develop their interest in computer science,
+their ability to reflect on their own learning and to take responsibility for its development;
+group sessions enable students to develop their written and oral communication skills;
+practical sessions and group work encourage students to work both independently and in collaboration
+with others as well as enabling them to solve problems in new or unfamiliar environments.
+
+7. Teaching Staff
+
+The Computer Science academic staff currently comprises Professors, Readers, Senior Lecturers, Lecturers
+and Teaching Fellows, of whom a number are Associate Fellows, Fellows and Senior Fellows of the Higher
+Education Academy. More information about the Computer Science staff is available
+at http://www.keele.ac.uk/scm/staff/
+
+The University will attempt to minimise changes to our core teaching teams, however, delivery of the
+programme depends on having a sufficient number of staff with the relevant expertise to ensure that the
+programme is taught to the appropriate academic standard.
+
+Staff turnover, for example where key members of staff leave, fall ill or go on research leave, may result in
+changes to the programme's content. The University will endeavour to ensure that any impact on students is
+limited if such changes occur.
+
+8. What is the structure of the Programme?
+
+The academic year runs from September to June and is divided into two semesters. The number of weeks of
+teaching will vary from programme to programme, but you can generally expect to attend scheduled
+teaching sessions between the end of September and mid-December, and from mid-January to the end of
+April. Our degree courses are organised into modules. Each module is usually a self-contained unit of study
+and each is usually assessed separately with the award of credits on the basis of 1 credit = 10 hours of
+student effort. An outline of the structure of the programme is provided in the tables below.
+
+There are three types of module delivered as part of your programme. They are:
+
+4
+
+Compulsory modules - a module that you are required to study on this course;
+Optional modules - these allow you some limited choice of what to study from a list of modules;
+Elective modules - a free choice of modules that count towards the overall credit requirement but not
+the number of subject-related credits.
+
+A summary of the credit requirements per year is as follows, with a minimum of 90 subject credits
+(compulsory plus optional) required for each year across both of your Principal Subjects, with at least 60
+credits at each level of study (Levels 4, 5 and 6). This document has information about Computer Science
+modules only; please also see the document for your other subject.
+
+For further information on the content of modules currently offered, including the list of elective modules,
+please visit: https://www.keele.ac.uk/recordsandexams/modulecatalogue/
+
+Year
+
+Compulsory
+
+Level 4
+
+Level 5
+
+Level 6
+
+45
+
+0
+
+30
+
+Optional
+
+Electives
+
+Min Max
+
+Min Max
+
+15
+
+45
+
+30
+
+15
+
+45
+
+30
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+In year 3 there is the option to choose to specialise in one of your subjects, taking a minimum of 90 credits in
+this subject rather than taking modules from both subjects.
+
+Module Lists
+
+Level 4
+
+Compulsory modules
+
+Module Code
+
+Credits
+
+Period
+
+Programming I - Programming
+Fundamentals
+
+CSC-10024
+
+Fundamentals of Computing
+
+CSC-10029
+
+Communication, Confidence and
+Competence
+
+CSC-10056
+
+15
+
+15
+
+15
+
+Semester 1
+
+Semester 1
+
+Semester 2
+
+Optional modules
+
+Module Code
+
+Credits
+
+Period
+
+Cybercrime
+
+Systems and Architecture
+
+CSC-10025
+
+CSC-10033
+
+Computer Animation and Multimedia
+
+CSC-10026
+
+Natural Computation
+
+CSC-10035
+
+Introduction to Interaction Design
+
+CSC-10040
+
+15
+
+15
+
+15
+
+15
+
+15
+
+Semester 1
+
+Semester 1
+
+Semester 2
+
+Semester 2
+
+Semester 2
+
+Level 5
+
+5
+
+Module Code
+
+Credits
+
+Period
+
+Optional modules
+
+Web Technologies
+
+Programming II - Data Structures and
+Algorithms
+
+CSC-20021
+
+CSC-20037
+
+Mobile Application Development
+
+CSC-20038
+
+Computational and Artificial Intelligence I CSC-20043
+
+Digital Forensics
+
+Database Systems
+
+CHE-20042
+
+CSC-20002
+
+Advanced Programming Practices
+
+CSC-20004
+
+Software Engineering
+
+Individual Study Topic in Computer
+Science
+
+CSC-20041
+
+CSC-20047
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+Semester 1
+
+Semester 1
+
+Semester 1
+
+Semester 1
+
+Semester 2
+
+Semester 2
+
+Semester 2
+
+Semester 2
+
+Semester 2
+
+Level 6
+
+Compulsory modules
+
+Module Code
+
+Credits
+
+Period
+
+Third Year Double Project - ISP
+
+CSC-30014
+
+30
+
+Semester 1-2
+
+Optional modules
+
+Module Code
+
+Credits
+
+Period
+
+Software Engineering Project
+Management
+
+Games Computing
+
+Bioinformatics
+
+Advanced Information Systems
+
+CSC-30016
+
+CSC-30019
+
+CSC-30022
+
+CSY-30001
+
+Advanced Databases and Applications
+
+CSC-30002
+
+Communications and Networks
+
+Advanced Web Technologies
+
+CSC-30012
+
+CSC-30025
+
+Computational and Artificial Intelligence II CSC-30027
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+Semester 1
+
+Semester 1
+
+Semester 1
+
+Semester 1
+
+Semester 2
+
+Semester 2
+
+Semester 2
+
+Semester 2
+
+If you choose to specialise in this subject in your final year you will study the following modules:
+
+Compulsory modules
+
+Module Code
+
+Credits
+
+Period
+
+Third Year Double Project - ISP
+
+CSC-30014
+
+30
+
+Semester 1-2
+
+6
+
+Optional modules
+
+Module Code
+
+Credits
+
+Period
+
+Software Engineering Project
+Management
+
+Games Computing
+
+Bioinformatics
+
+Evolution of Complex Systems
+
+Advanced Information Systems
+
+CSC-30016
+
+CSC-30019
+
+CSC-30022
+
+CSC-30023
+
+CSY-30001
+
+Advanced Databases and Applications
+
+CSC-30002
+
+Communications and Networks
+
+Advanced Web Technologies
+
+CSC-30012
+
+CSC-30025
+
+Computational and Artificial Intelligence II CSC-30027
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+Semester 1
+
+Semester 1
+
+Semester 1
+
+Semester 1
+
+Semester 1
+
+Semester 2
+
+Semester 2
+
+Semester 2
+
+Semester 2
+
+9. Final and intermediate awards
+
+Credits required for each level of academic award are as follows:
+
+You will require at least 120 credits at levels 4, 5 and 6
+
+Honours
+Degree
+
+360
+credits
+
+You must accumulate a minimum of 180 credits in Computer Science, with at least
+60 credits at each level of study (Levels 4, 5 and 6) in Computer Science. Your
+degree title will be 'subject X and subject Y'.
+
+If you choose to study one Principal subject in your final year of study a minimum of
+90 credits in that subject is required. Your degree title will be 'subject X with
+subject Y'.
+
+Diploma in
+Higher
+Education
+
+Certificate
+in Higher
+Education
+
+240
+credits
+
+You will require at least 120 credits at level 4 or higher and at least 120 credits at
+level 5 or higher
+
+120
+credits
+
+You will require at least 120 credits at level 4 or higher
+
+International Year option: in addition to the above students must pass a module covering the
+international year in order to graduate with a named degree including the 'international year' wording.
+Students who do not complete, or fail the international year, will be transferred to the three-year version of
+the programme.
+
+Work Placement Year option: in addition to the above students must pass a non-credit bearing module
+covering the work placement year in order to graduate with a named degree including the 'with Work
+Placement Year' wording. Students who do not complete, or fail the work placement year, will be transferred
+to the three-year version of the programme.
+
+10. How is the Programme Assessed?
+
+The wide variety of assessment methods used on this programme at Keele reflects the broad range of
+knowledge and skills that are developed as you progress through the degree programme. Teaching staff pay
+particular attention to specifying clear assessment criteria and providing timely, regular and constructive
+feedback that helps to clarify things you did not understand and helps you to improve your performance. The
+following list is representative of the variety of assessment methods used on your programme:
+
+Unseen examinations in different formats test a student's knowledge and understanding of computer
+science topics. Such examinations are of two hours in length and contain compulsory and possibly also
+optional questions
+
+7
+
+Class tests are taken during the course of a module, usually in a lecture slot. They are intended to
+assess a student's current understanding and subject knowledge in that module in a structured and
+focused manner. Some taught compulsory modules may have class tests as part of the assessment
+profile
+Coursework normally consists of assignments designed to assess student's knowledge and
+understanding of the module material. Some of these assignments may be computer based; others take
+the form of individual reports, essays or group projects
+Short reports: for which students are required to write up their own account of small group studies
+and discussions on particular topics
+Tutorial Participation, whereby students may be asked to make contributions based on the subject
+material, either orally or as a written solution, sometimes in consultation with their peers
+Dissertations are formal reports of work carried out by students undertaking a project. Projects
+involve the integration and application of theoretical knowledge and problem-solving skills to an
+identified programming need and/or research problem within the discipline. Dissertations describe
+product and process in extended detail
+Oral presentations and reports  assess a student's ability to communicate their knowledge and
+understanding, both visually and orally, to both general and academic audiences
+
+Marks are awarded for summative assessments designed to assess your achievement of learning outcomes.
+You will also be assessed formatively to enable you to monitor your own progress and to assist staff in
+identifying and addressing any specific learning needs. Feedback, including guidance on how you can
+improve the quality of your work, is also provided on all summative assessments within three working weeks
+of submission, unless there are compelling circumstances that make this impossible, and more informally in
+the course of tutorial and seminar discussions.
+
+11. Contact Time and Expected Workload
+
+This contact time measure is intended to provide you with an indication of the type of activity you are likely
+to undertake during this programme. The data is compiled based on module choices and learning patterns of
+students on similar programmes in previous years. Every effort is made to ensure this data is a realistic
+representation of what you are likely to experience, but changes to programmes, teaching methods and
+assessment methods mean this data is representative and not specific.
+
+Undergraduate courses at Keele contain an element of module choice; therefore, individual students will
+experience a different mix of contact time and assessment types dependent upon their own individual choice
+of modules. The figures below are an example of activities that a student may expect on your chosen course
+by year stage of study. Contact time includes scheduled activities such as: lecture, seminar, tutorial, project
+supervision, demonstration, practical classes and labs, supervised time in labs/workshop, fieldwork and
+external visits. The figures are based on 1,200 hours of student effort each year for full-time students.
+
+Activity
+
+Scheduled learning and teaching
+activities
+
+Guided independent
+Study
+
+Placements
+
+Year 1 (Level
+4)
+
+Year 2 (Level
+5)
+
+Year 3 (Level
+6)
+
+24%
+
+24%
+
+10%
+
+12. Accreditation
+
+76%
+
+76%
+
+90%
+
+0%
+
+0%
+
+0%
+
+This programme does not have accreditation from an external body.
+
+13. University Regulations
+
+The University Regulations form the framework for learning, teaching and assessment and other aspects of
+the student experience. Further information about the University Regulations can be found at:
+http://www.keele.ac.uk/student-agreement/
+
+If this programme has any exemptions, variations or additions to the University Regulations these will be
+detailed in an Annex at the end of this document titled 'Programme-specific regulations'.
+
+8
+
+ 
+14. Other Learning Opportunities
+
+Study abroad (semester)
+
+Students on the programme have the potential opportunity to spend a semester abroad in their second year
+studying at one of Keele's international partner universities.
+
+Exactly which countries are available depends on the student's choice of degree subjects. An indicative list of
+countries is on the website (http://www.keele.ac.uk/studyabroad/partneruniversities/); however this does not
+guarantee the availability of study in a specific country as this is subject to the University's application
+process for studying abroad.
+
+No additional tuition fees are payable for a single semester studying abroad but students do have to bear the
+costs of travelling to and from their destination university, accommodation, food and personal costs.
+Depending on the destination they are studying at additional costs may include visas, study permits,
+residence permits, and compulsory health checks. Students should expect the total costs of studying abroad
+to be greater than if they study in the UK, information is made available from the Global Education Team
+throughout the process, as costs will vary depending on destination.
+
+Whilst students are studying abroad any Student Finance eligibility will continue, where applicable students
+may be eligible for specific travel or disability grants. Students who meet external eligibility criteria may be
+eligible for grants as part of this programme. Students studying outside of this programme may be eligible
+for income dependent bursaries at Keele. Students travel on a comprehensive Keele University insurance
+plan, for which there are currently no additional charges. Some governments and/or universities require
+additional compulsory health coverage plans; costs for this will be advised during the application process.
+
+Study Abroad (International Year)
+
+A summary of the International Year, which is a potential option for students after completion of year 2
+(Level 5), is provided in the Annex for the International Year.
+
+Work Placement Year
+
+A summary of the Work Placement Year, which is a potential option for students after completion of year 2
+(Level 5), is provided in the Annex for the Work Placement Year.
+
+15. Additional Costs
+
+Some travel costs may be incurred if an external project is undertaken in the third year. However, any such
+costs would be discussed with you before the project was selected. It would be possible for you to select an
+internal project that would not incur any additional travel costs.
+
+These costs have been forecast by the University as accurately as possible but may be subject to change as
+a result of factors outside of our control (for example, increase in costs for external services). Forecast costs
+are reviewed on an annual basis to ensure they remain representative. Where additional costs are in direct
+control of the University we will ensure increases do not exceed 5%.
+
+As to be expected there will be additional costs for inter-library loans and potential overdue library fines,
+print and graduation. We do not anticipate any further costs for this programme.
+
+16. Annex - International Year
+
+Computer Science with International Year
+
+Please note: in order to be eligible to take the International Year option your other subject must also offer
+this option. Please refer to the information published in the course document for your other subject.
+
+International Year Programme
+
+9
+
+Students registered for this Combined Honours programme may either be admitted for or apply to transfer
+during their period of study at Level 5 to the Combined Honours programme in both their principal subjects,
+providing that they meet the progression criteria outlined in this document. Students accepted onto the
+International Year programme will have an extra year of study at an international partner institution after
+they have completed Year 2 (Level 5) at Keele.
+
+Students who successfully complete both the second year (Level 5) and the International Year will be
+permitted to progress to Level 6. Students who fail to satisfy the examiners in respect of the International
+Year will normally revert to the Combined Honours programme without the International Year and progress
+to Level 6 on that basis. The failure will be recorded on the student's final transcript.
+
+Study at Level 4, Level 5 and Level 6 will be as per the main body of this document. The additional detail
+contained in this annex will pertain solely to students registered for the International Year option.
+
+International Year Programme Aims
+
+In addition to the programme aims specified in the main body of this document, the international year
+programme of study aims to provide students with:
+
+1.  Personal development as a student and a researcher with an appreciation of the international
+
+dimension of their subject
+
+2.  Experience of a different culture, academically, professionally and socially
+
+Entry Requirements for the International Year
+
+Students may apply to the 4-year programme during Level 5. Admission to the International Year is subject
+to successful application, interview and references from appropriate staff.
+
+The criteria to be applied are:
+
+Academic Performance (an average of 55% across all modules at Level 5 is required. Students with up
+to 15 credits of re-assessment who meet the 55% requirement may progress to the International Year.
+Where no Semester 1 marks have been awarded performance in 1st year marks and ongoing 2nd
+year assessments are taken into account)
+General Aptitude (to be demonstrated by application for study abroad, interview during the 2nd
+semester of year 2 (Level 5), and by recommendation of the student's personal tutor, 1st and 2nd
+year tutors and programme director)
+
+Students may not register for both an International Year and a Placement Year.
+
+Student Support
+
+Students will be supported whilst on the International Year via the following methods:
+
+Phone or Skype conversations with Study Abroad tutors, in line with recommended Personal Tutoring
+meeting points.
+Support from the University's Global Education Team
+
+Learning Outcomes
+
+10
+
+In addition to the learning outcomes specified in the main text of the Programme Specification, students
+who complete a Keele undergraduate programme with International Year will be able to:
+
+1.  Describe, discuss and reflect upon the cultural and international differences and similarities of
+
+different learning environments
+
+2.  Discuss the benefits and challenges of global citizenship and internationalisation
+3.  Explain how their perspective on their academic discipline has been influenced by locating it within an
+
+international setting.
+
+4.  Communicate effectively in an international setting;
+5.  Reflect on previous learning within an international context
+
+Please note that students on Combined Honours programmes with International Year must meet the
+subject-specific learning outcomes for BOTH their principal subjects.
+
+These learning outcomes will all be assessed by the submission of a satisfactory individual learning
+agreement, the successful completion of assessments at the partner institution and the submission of the
+reflective portfolio element of the international year module.
+
+Course Regulations
+
+Students registered for the International Year are subject to the programme-specific regulations (if any)
+and the University regulations. In addition, during the International Year, the following regulations will
+apply:
+
+Students undertaking the International Year must complete 120 credits, which must comprise at least 40%
+in the student's discipline area.
+
+This may impact on your choice of modules to study, for example you will have to choose certain modules
+to ensure you have the discipline specific credits required.
+
+Students are barred from studying any module with significant overlap to the Level 6 modules to be studied
+on their return. Significant overlap with Level 5 modules previously studied should also be avoided.
+
+Additional costs for the International Year
+
+Tuition fees for students on the International Year will be charged at 15% of the annual tuition fees for that
+year of study, as set out in Section 1. The International Year can be included in your Student Finance
+allocation, to find out more about your personal eligibility see: www.gov.uk
+
+Students will have to bear the costs of travelling to and from their destination university, accommodation,
+food and personal costs. Depending on the destination they are studying at additional costs may include
+visas, study permits, residence permits, and compulsory health checks. Students should expect the total
+costs of studying abroad be greater than if they study in the UK, information is made available from the
+Global Education Team throughout the process, as costs will vary depending on destination.
+
+Students who meet external eligibility criteria may be eligible for grants as part of this programme.
+Students studying outside of this programme may be eligible income dependent bursaries at Keele.
+
+Students travel on a comprehensive Keele University insurance plan, for which there are currently no
+additional charges. Some Governments and/or universities require additional compulsory health coverage
+plans; costs for this will be advised during the application process.
+
+17. Annex - Work Placement Year
+
+Computer Science with Work Placement Year
+
+Work Placement Year summary
+
+11
+
+Students registered for this programme may either be admitted for or apply to transfer during their studies
+to the 'with Work Placement Year' option (NB: for Combined Honours students the rules relating to the work
+placement year in the subject where the placement is organised are to be followed). Students accepted
+onto this programme will have an extra year of study (the Work Placement Year) with a relevant placement
+provider after they have completed Year 2 (Level 5) at Keele. 
+
+Students who successfully complete both the second year (Level 5) and the Work Placement Year will be
+permitted to progress to Level 6. Students who fail to satisfactorily complete the Work Placement Year will
+normally revert to the 3-year programme and progress to Level 6 on that basis. The failure will be recorded
+on the student's final transcript.
+
+Study at Level 4, Level 5 and Level 6 will be as per the main body of this document. The additional detail
+contained in this annex will pertain solely to students registered for the Work Placement Year option.
+
+Work Placement Year Programme Aims
+
+In addition to the programme aims specified in the main body of this document, the Work Placement Year
+aims to provide students with the opportunity to carry out a long-term work-based learning experience
+(minimum 30 weeks equivalent of full-time work) in the computing sector between Years 2 and 3 (Levels 5
+and 6) of their degree programme. The module will be underpinned by employability skills training (as part
+of their preparation during year 2), reflective assessment, employer and tutor evaluation and support from
+academic tutors.
+
+Entry Requirements for the Work Placement Year
+
+All students undertaking the work placement degree programme will be provided with an academic tutor,
+based at Keele. Students are expected to arrange their own work placement. A list of potential placements
+will be provided that students can apply for, with allocation being based on a competitive interview process
+involving the placement providers. Students are also permitted to provide their own placement option.
+Support will be offered throughout the placement process. This will involve support ensuring the
+appropriateness of the placement prior to starting the Placement Year, and email/telephone/face-to-face
+contact with the academic tutor.
+
+Students have the opportunity to apply directly for the 4-year 'with work placement year' degree
+programme, or to transfer onto the 4-year programme at the end of Year-1 and in Year-2 at the end of
+Semester 1. Students who are initially registered for the 4-year degree programme may transfer onto the
+3-year degree programme at any point in time, prior to undertaking the year-long work placement.
+Students who fail to pass the work placement year, and those who fail to meet the minimum requirements
+of the work placement year module (minimum 30 weeks full time (1,050 hours), or equivalent, work
+placement), will be automatically transferred onto the 3-year degree programme.
+
+The criteria to be applied are:
+
+A good University attendance record and be in 'good academic standing'.
+Passed all Year-1 and Year-2 Semester 1 modules with an overall module average of > 55%
+Students undertaking work placements will be expected to complete a Health and Safety checklist
+prior to commencing their work experience and will be required to satisfy the Health and Safety
+regulations of the company or organisation at which they are based.
+(International students only) Due to visa requirements, it is not possible for international students who
+require a Tier 4 Visa to apply for direct entry onto the 4-year with Work Placement Year degree
+programme.  Students wishing to transfer onto this programme should discuss this with student
+support, the academic tutor for the work placement year, and the Programme Lead.  Students should
+be aware that there are visa implications for this transfer, and it is the student's responsibility to
+complete any and all necessary processes to be eligible for this programme.  There may be additional
+costs, including applying for a new Visa from outside of the UK for international students associated
+with a transfer to the work placement programme.
+
+Students may not register for both an International Year and a Work Placement Year.
+
+Student Support
+
+12
+
+Students will be supported whilst on the Work Placement Year via the following methods:
+
+Regular contact between the student and a named member of staff who will be assigned to the
+student as their University supervisor. The University supervisor will be in regular contact with the
+student throughout the year, and be on hand to provide advice (pastoral or academic) and liaise with
+the Placement supervisor on the student's behalf if required.
+Two formal contacts with the student during the placement year: the University supervisor will visit
+the student in their placement organization at around the 5 weeks afters placement has commenced,
+and then visit again (or conduct a telephone/video call tutorial) at around 15 weeks into the
+placement.
+Weekly supervision sessions will take place with the placement supervisor (or his/her nominee)
+throughout the duration of the placement.
+
+Learning Outcomes
+
+In addition to the learning outcomes specified in the main text of the Programme Specification, students
+who complete the 'with Work Placement Year' option will be able to:
+
+LO4.1     Evaluate their own employability skills (via a SWOT Analysis).
+
+LO4.2     Create ILOs for their placement in order to develop the skills areas which they have identified as
+being weak or needing further enhancement.
+
+LO4.3     Develop, through practice in the work place, the work-related skills identified through their SWOT
+analysis and ILOs.
+
+LO4.4     Apply academic theory learnt as part of the taught degree to real situations in the work place.
+
+LO4.5     Reflect on their work placement activities and experiences and evaluate the impact on their
+employability skills.
+
+LO4.6     Explain how the professional computing sector operates and identify the skills required to pursue
+careers within the sector.
+
+These learning outcomes will be assessed through the non-credit bearing Work Placement Year module
+(CSC-30024) which is assessed by a Mid-Placement Portfolio, a Final Placement Portfolio and an Oral
+Presentation.
+
+Regulations
+
+Students registered for the 'with Work Placement Year' option are subject to programme-specific
+regulations (if any) and the University regulations. In addition, during the Work Placement Year, the
+following regulations will apply:
+
+Students undertaking the Work Placement Year must successfully complete the zero-credit rated
+'Work Placement Year' module (CSC-30024)
+In order to ensure a high quality placement experience, each placement agency will sign up to a
+placement contract (analogous to a service level agreement).
+Once a student has been accepted by a placement organisation, the student will make a pre-
+placement visit and a member of staff identified within the placement contract will be assigned as the
+placement supervisor. The placement supervisor will be responsible for ensuring that the placement
+experience meets the agreed contract agreed with the University.
+The placement student will also sign up an agreement outlining his/her responsibilities in relation to
+the requirements of each organisation.
+
+Students will be expected to behave professionally in terms of: 
+
+(i) conforming to the work practices of the organisation;  and 
+
+(ii) remembering that they are representatives of the University and their actions will reflect on the School
+and have an impact on that organisation's willingness (or otherwise) to remain engaged with the
+placement. 
+
+Additional costs for the Work Placement Year
+
+13
+
+Tuition fees for students on the Work Placement Year will be charged at 20% of the annual tuition fees for
+that year of study, as set out in Section 1. The Work Placement Year can be included in your Student
+Finance allocation; to find out more about your personal eligibility see: www.gov.uk
+
+Students will have to bear the costs of travelling to and from their placement provider, accommodation,
+food and personal costs. Depending on the placement provider additional costs may include parking
+permits, travel and transport, suitable clothing, DBS checks, and compulsory health checks.
+
+A small stipend may be available to students from the placement provider during the placement but this
+will need to be explored on a placement-by-placement basis as some organisations, such as charities, may
+not have any extra money available. Students should budget with the assumption that their placement will
+be unpaid.
+
+Eligibility for student finance will depend on the type of placement and whether it is paid or not. If it is paid,
+this is likely to affect student finance eligibility, however if it is voluntary and therefore unpaid, should not
+affect student finance eligibility. Students are required to confirm eligibility with their student finance
+provider.
+
+International students who require a Tier 4 visa should check with the Immigration Compliance team prior
+to commencing any type of paid placement to ensure that they are not contravening their visa
+requirements. 
+
+18. Annex - Programme-specific regulations
+
+Programme Regulations: Computer Science
+
+Final Award and Award Titles
+
+BSc (Hons) Computer Science with International Year
+
+BSc (Hons) Computer Science with Work Placement Year
+
+BSc (Hons) Computer Science
+
+Intermediate Award(s)
+
+Diploma in Higher Education
+
+Certificate in Higher Education
+
+Last modified
+
+July 2019
+
+Programme Specification
+
+https://www.keele.ac.uk/qa/programmespecifications
+
+The University's Academic Regulations which can be found on the Keele University website
+(https://www.keele.ac.uk/regulations/)[1] apply to and regulate the programme, other than in instances
+where the specific programme regulations listed below over-ride them. These programme regulations list:
+
+Exemptions which are characterised by the omission of the relevant regulation.
+Variations which are characterised by the replacement of part of the regulation with alternative
+wording.
+Additional Requirements which set out what additional rules that apply to students in relation to this
+programme.
+
+The following exemptions, variations and additional requirements to the University regulations have
+been checked by Academic Services and have been approved by the Faculty Education Committee.
+
+A) EXEMPTIONS
+
+The clause(s) listed below describe where an exemption from the University's Academic Regulations exists:
+
+14
+
+For the whole duration of their studies, students on this Programme are exempt from the following
+regulations:
+
+No exemptions apply.
+
+B) VARIATIONS
+
+The clause(s) listed below describe where a variation from the University's Academic Regulations exists:
+
+Variation 1: Transfer onto the MComp Programme
+
+This programme varies from Regulation C6, 2.3:
+
+Regulation C6, paragraph 2.3 states that the rules governing eligibility for transfer onto an Integrated
+Masters programme shall be governed by the relevant Course Regulations.
+
+Combined Honours BSc Computer Science students will, subject to the same considerations, normally be
+permitted to transfer on to the MComp Programme within two weeks of the commencement of Level 5.
+
+Additional Requirements
+
+The programme requirements listed below are in addition to the University's Academic Regulations:
+
+Additional requirement 1: Study Abroad (semester abroad)
+
+Students intending to study abroad must pass all modules in their first year and obtain an average of at least
+50%.  The School can insist that no placement is made if a student's progress is not of a satisfactory
+standard.
+
+Students spending a semester abroad during their second year of study must agree a programme with the
+Study Abroad Tutor (SAT) before they leave and must agree any subsequent changes that become
+necessary.
+
+Marks obtained will be converted into Keele equivalents according to the agreement between Keele and the
+partner institution. In the case of borderline marks or incomplete work, the Computer Science examination
+board will determine the mark to be awarded.  In the event of unfinished modules, the Director of Learning
+and Teaching or Study Abroad Tutor may require extra work to be completed.
+
+[1] References to University Regulations in this document apply to the content of the University's Regulatory
+Framework as set out on the University website here https://www.keele.ac.uk/regulations/.  
+
+Version History
+
+This document
+
+Date Approved: 31 January 2022
+
+Previous documents
+
+Version
+No
+
+Year
+
+Owner
+
+Date
+Approved
+
+1
+
+1
+
+2021/22
+
+THEO
+KYRIACOU
+
+08 February
+2021
+
+2020/21
+
+THEO
+KYRIACOU
+
+08 February
+2021
+
+Summary of and rationale for changes
+
+1.1
+
+2019/20
+
+THEO
+KYRIACOU
+
+08 February
+2021
+
+Minor correction: In the Major Route modules at L6 CSC-
+30001 changed to CSY-30001
+
+1
+
+2019/20
+
+THEO
+KYRIACOU
+
+18
+December
+2019
+
+15
+
+

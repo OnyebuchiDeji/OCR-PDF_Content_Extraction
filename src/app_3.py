@@ -18,3 +18,6 @@ print(df)
 
 #   an operation that can be performed depending on the data in the pdf
 # print(df[df.Age > 30])
+
+with open("output_extracted_table.txt", "w") as wfs:
+    wfs.write(str(df))
